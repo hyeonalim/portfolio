@@ -1,0 +1,25 @@
+.symp-btn:hover,
+.process:hover > .number,
+.service > .icon,
+.timeline > li:not(.timeline-header):before,
+.footer-social > li > a:hover,
+.process > .number > span:after,
+.close-btn > span:before{
+	background:#B7A389;
+}
+
+.process > .number,
+.skill > h4,
+.front-person-links > ul > li > a:hover{
+	color:#B7A389;
+}
+
+.form-control:focus,
+.process.last > .number > span:before,
+.process > .number{
+	border-color:#B7A389;
+}
+
+.process > .number > span:before{
+	border-left-color:#B7A389;
+}
